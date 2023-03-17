@@ -1,2 +1,2 @@
 # web.github.io
-Website
+Hugo
